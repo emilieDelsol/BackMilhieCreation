@@ -17,7 +17,5 @@ namespace APIMilhieCreation.Models
 		public String Reference { get; set; }
 		[NotMapped]
 		public String[] Images { get ; set ; } 
-		[JsonIgnore]
-		public Category Category { get; set; }
 	}
 }

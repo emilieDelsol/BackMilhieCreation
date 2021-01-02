@@ -5,7 +5,7 @@ namespace APIMilhieCreation.Models
 {
 	public class UnderCategory
 	{
-		public Guid UnderCategoryId { get; set; }
+		public Int32 UnderCategoryId { get; set; }
 		public String Name { get; set; }
 		public ICollection<Product> Products { get; set; }
 	}
