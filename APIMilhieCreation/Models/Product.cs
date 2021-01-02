@@ -15,8 +15,6 @@ namespace APIMilhieCreation.Models
 		public  String Link { get; set; }
 		public  bool Disponibility { get; set; }
 		public String Reference { get; set; }
-		private static readonly char delimiter = ';';
-		private String _tags;
 		[NotMapped]
 		public String[] Images { get ; set ; } 
 		[JsonIgnore]
