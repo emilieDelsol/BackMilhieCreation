@@ -1,21 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
 namespace APIMilhieCreation.Models
 {
 	public class Product
 	{
-		public virtual Int32 ProductId { get; set; }
-		public virtual String Title { get; set; }
-		public virtual Decimal Price { get; set; }
-		public virtual String Gemme { get; set; }
-		public virtual String Description { get; set; }
-		public virtual String Link { get; set; }
-		public virtual bool Disponibility { get; set; }
-		public virtual String Reference { get; set; }
-		public virtual IEnumerable<Photo> Images{ get;  set; }
+		public  Int32 ProductId { get; set; }
+		public  String Title { get; set; }
+		public  Decimal Price { get; set; }
+		public  String Gemme { get; set; }
+		public  String Description { get; set; }
+		public  String Link { get; set; }
+		public  bool Disponibility { get; set; }
+		public String Reference { get; set; }
+		private static readonly char delimiter = ';';
+		private String _tags;
+		[NotMapped]
+		public String[] Images { get ; set ; } 
 		[JsonIgnore]
-		public virtual Category Category { get; set; }
+		public Category Category { get; set; }
 	}
 }
