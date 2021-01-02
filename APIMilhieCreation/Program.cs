@@ -37,11 +37,11 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_01" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre01.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre01(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre01(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre01(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre01(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre01.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre01(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre01(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre01(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre01(04).jpeg",
 					}
 				},
 				new Product
@@ -54,9 +54,9 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_02" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre02.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre02(01).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre02(02).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre02.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre02(01).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre02(02).jpeg"
 					}
 				},
 				new Product
@@ -69,12 +69,12 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_03" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre03.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre03(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre03(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre03(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre03(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre03(05).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre03(05).jpeg"
 					}
 				},
 				new Product
@@ -87,9 +87,9 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_04" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre04(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre04(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre04(03).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre04(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre04(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre04(03).jpeg"
 					}
 				},
 				new Product
@@ -102,11 +102,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_05" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre05(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre05(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre05(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre05(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre05(05).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre05(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre05(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre05(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre05(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre05(05).jpeg"
 					}
 				},
 				new Product
@@ -119,12 +119,12 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_06" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre06.jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre06(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre06(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre06(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre06(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre06(05).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06.jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre06(05).jpeg"
 					}
 				},
 				new Product
@@ -137,11 +137,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_07" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre07.jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre07(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre07(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre07(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre07(04).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre07.jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre07(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre07(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre07(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre07(04).jpeg"
 					}
 				},
 				new Product
@@ -154,11 +154,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_08" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre08.jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre08(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre08(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre08(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre08(04).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre08.jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre08(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre08(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre08(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre08(04).jpeg"
 					}
 				},
 				new Product
@@ -171,26 +171,26 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_09" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre09.jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(01).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(03).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(05).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(06).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(07).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(08).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(09).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre09(10).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(11).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(12).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(13).jpeg ",
-						"http://www.milhiecreation.com/images/arbres/arbre09(14).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(15).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(16).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(17).jpeg,",
-						"http://www.milhiecreation.com/images/arbres/arbre09(18).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre09(19).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09.jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(01).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(03).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(05).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(06).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(07).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(08).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(09).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(10).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(11).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(12).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(13).jpeg ",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(14).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(15).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(16).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(17).jpeg,",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(18).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre09(19).jpeg" ,
 					}
 				},
 				new Product
@@ -203,21 +203,166 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_10" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbre10.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbre10(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(05).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(06).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(07).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(08).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(09).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(10).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(11).jpeg ",
-						"http://www.milhiecreation.com/images/arbres/arbre10(12).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbre10(13).jpeg ",
-						"http://www.milhiecreation.com/images/arbres/arbre10(14).jpeg"
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(05).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(06).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(07).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(08).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(09).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(10).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(11).jpeg ",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(12).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(13).jpeg ",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre10(14).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie 7 chakras sur tourmaline noire.",
+					Price = 70,
+					Gemme="Tourmaline",
+					Description=" arbre de vie fait main en fil d'aluminium et perles d'ambre le tout monté sur une tourmaline noire.<br />Pièce d'art unique. <br /><br />hauteur: 17 cm< br />largeur: 10 cm< br />poids: 396g",
+					Link="https://fr.shopping.rakuten.com/offer/buy/5179818575/arbre-de-vie-ambre.html",
+					Disponibility=false,
+					Reference="big_life_tree_11" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11.jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(05).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(06).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(07).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(08).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(09).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(10).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(11).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(12).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(13).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(14).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(15).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre11(16).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie perles d'ambre sur tourmaline noire.",
+					Price = 70,
+					Gemme="Tourmaline",
+					Description="arbre de vie fait main en fil d'aluminium et perles d'ambre le tout monté sur une tourmaline noire.<br />Pièce d'art unique. <br /><br />hauteur:14cm< br />largeur: 9cm< br />poids:219g",
+					Link="https://fr.shopping.rakuten.com/offer/buy/5179955392/arbre-de-vie-ambre.html",
+					Disponibility=false,
+					Reference="big_life_tree_12" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre12.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre12(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre12(02).jpg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie perles d'ambre sur une druse d'améthyste.",
+					Price = 70,
+					Gemme="Tourmaline",
+					Description="arbre de vie fait main en fil d'aluminium et perles d'ambre le tout monté sur une druse d'améthyste.<br />Pièce d'art unique. <br /><br />hauteur:12cm ",
+					Link="https://fr.shopping.rakuten.com/offer/buy/5179955392/arbre-de-vie-ambre.html",
+					Disponibility=true,
+					Reference="big_life_tree_13" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(02).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(03).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(04).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(05).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(06).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(07).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre13(08).jpg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie perles de rocailles sur géode de quartz.",
+					Price = 90,
+					Gemme="Tourmaline",
+					Description=" arbre de vie fait main en fil d'aluminium et perles de rocaille vertes, le tout monté sur un géode de quartz.<br />Pièce d'art unique. <br /><br />hauteur: 20cm ",
+					Link="https://fr.shopping.rakuten.com/offer/buy/5179955392/arbre-de-vie-ambre.html",
+					Disponibility=true,
+					Reference="big_life_tree_14" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(02).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(03).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(04).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(05).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(06).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(07).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(08).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(09).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre14(10).jpg"
+					}
+				},
+				new Product
+				{
+					Title= "Sculpture en fil d'aluminium.",
+					Price = 70,
+					Gemme="Other",
+					Description=" arbre de vie fait main en fil d'aluminium fait main.<br />Pièce d'art unique. <br /><br />hauteur: 20cm< br />largeur: 15cm",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/568013559-sculpture-arbre-de-vie",
+					Disponibility=true,
+					Reference="big_life_tree_15" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(02).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(03).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(04).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(05).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(06).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(07).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(08).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(09).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre15(10).jpg"
+					}
+				},
+				new Product
+				{
+					Title= "Grande sculpture en fil d'aluminium.",
+					Price = 120,
+					Gemme="Other",
+					Description=" arbre de vie fait main en fil d'aluminium fait main.<br />Pièce d'art unique. <br /><br />hauteur: 40cm",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/568013559-sculpture-arbre-de-vie",
+					Disponibility=true,
+					Reference="big_life_tree_16" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(02).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(03).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(04).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(05).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre16(06).jpg"
+					}
+				},
+				new Product
+				{
+					Title= "Grand arbre de vie sur améthyste.",
+					Price = 120,
+					Gemme="Amethyst",
+					Description="Arbre de vie sur améthyste. Fait main en fil d'aluminium.<br /><br />Hauteur: 25cm< br />Largeur: 15cm",
+					Link="https://www.etsy.com/fr/MilhieCreation/listing/838459402/",
+					Disponibility=true,
+					Reference="big_life_tree_17" ,
+					Images=new String[]{
+						"https://milhiecreation.milhie.fr/images/arbres/arbre17.jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre17(01).jpg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbre17(02).jpg"
 					}
 				}
 			};
@@ -234,15 +379,15 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_01" ,
 					Images=new String[]{
-					"http://www.milhiecreation.com/images/arbres/arbreM01.jpeg" ,
-					"http://www.milhiecreation.com/images/arbres/arbreM01(01).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(02).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(03).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(04).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(05).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(06).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(07).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM01(08).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01.jpeg" ,
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(05).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(06).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(07).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(08).jpeg",
 					}
 				},
 				new Product
@@ -255,12 +400,12 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_02" ,
 					Images=new String[]{
-					"http://www.milhiecreation.com/images/arbres/arbreM02.jpeg" ,
-					"http://www.milhiecreation.com/images/arbres/arbreM02(01).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM02(02).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM02(03).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM02(04).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM02(05).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02.jpeg" ,
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(05).jpeg",
 					}
 				},
 				new Product
@@ -273,13 +418,13 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_03" ,
 					Images=new String[]{
-					"http://www.milhiecreation.com/images/arbres/arbreM03.jpeg" ,
-					"http://www.milhiecreation.com/images/arbres/arbreM03(01).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM03(02).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM03(03).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM03(04).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM03(05).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM03(06).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03.jpeg" ,
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(05).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(06).jpeg",
 					}
 				},
 				new Product
@@ -292,10 +437,10 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_04" ,
 					Images=new String[]{
-					"http://www.milhiecreation.com/images/arbres/arbreM04.jpeg" ,
-					"http://www.milhiecreation.com/images/arbres/arbreM04(01).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM04(02).jpeg",
-					"http://www.milhiecreation.com/images/arbres/arbreM04(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM04.jpeg" ,
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(03).jpeg",
 					}
 				},
 				new Product
@@ -308,12 +453,12 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_05" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbreM05.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbreM05(01).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbreM05(02).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbreM05(03).jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbreM05(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM05(05).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(01).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(02).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(03).jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(05).jpeg" ,
 					}
 				},
 				new Product
@@ -326,24 +471,149 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_06" ,
 					Images=new String[]{
-						"http://www.milhiecreation.com/images/arbres/arbreM06.jpeg" ,
-						"http://www.milhiecreation.com/images/arbres/arbreM06(01).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(02).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(03).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(04).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(05).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(06).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(07).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(08).jpeg",
-						"http://www.milhiecreation.com/images/arbres/arbreM06(09).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06.jpeg" ,
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(01).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(02).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(03).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(04).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(05).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(06).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(07).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(08).jpeg",
+						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(09).jpeg",
+					}
+				},
+			};
+			ICollection<Product> smallLifeTree = new List<Product>
+			{
+				new Product
+				{
+					Title= "Arbre de vie bonsaï sur pierre.",
+					Price = 10,
+					Gemme="Other",
+					Description="Joli bonsaï en fil de fer et perles de rocaille sur pierre fait main .<br /><br />Hauteur: 10 cm< br />Largeur: 8 cm< br />Poids: 100g.",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967092/arbre-de-vie-bonsai-sur-pierre.html",
+					Disponibility=true,
+					Reference="small_life_tree_01" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS01.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS01(01).jpeg"	
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie améthyste.",
+					Price = 10,
+					Gemme="Amethyst",
+					Description="Petit arbre de vie en fil d'argent monté sur druse d'améthyste et perles en améthyste.<br /><br />Hauteur: 5cm< br />Largeur: 3,5cm",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967094/petit-arbre-de-vie-sur-amethyste.html",
+					Disponibility=true,
+					Reference="small_life_tree_02" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS02.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(04).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie sur cristal de roche.",
+					Price = 10,
+					Gemme="Cristal",
+					Description="Petit arbre de vie en fil d'argent monté sur cristal de roche et perles en cristal de roche.<br /><br />Hauteur: 5cm< br />Largeur: 3cm",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967096/petit-arbre-de-vie-sur-cristal-de-roche.html",
+					Disponibility=true,
+					Reference="small_life_tree_03" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(05).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie sur pierre.",
+					Price = 8,
+					Gemme="Other",
+					Description="Bonsaï en fil de fer fait main sur pierre. chaque modèle est unique, créé par mes soins.<br /><br />Hauteur: 10 cm< br />Largeur: 10 cm< br />Poids: 80g",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4804029395/arbre-de-vie-sur-amethyste.html",
+					Disponibility=false,
+					Reference="small_life_tree_04" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS04.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(04).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie sur marbre blanc.",
+					Price = 10,
+					Gemme="Other",
+					Description="Bonsaï en fil de fer sur pierre de marbre blanc fait main.<br /><br />Hauteur: 12 cm< br />Largeur: 10 cm",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967100/arbre-de-vie-bonsai-sur-pierre.html",
+					Disponibility=true,
+					Reference="small_life_tree_05" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(03).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(05).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(06).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(07).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie sur marbre blanc.",
+					Price = 5,
+					Gemme="Other",
+					Description="Arbre en fil de fer doré fait main sur pierre de marbre blanc.<br /><br />Hauteur: 5cm< br />Largeur: 7cm< br />Poids: 57g",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967100/arbre-de-vie-bonsai-sur-pierre.html",
+					Disponibility=true,
+					Reference="small_life_tree_06" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS06.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(01).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(02).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(04).jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(05).jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Arbre de vie sur marbre blanc.",
+					Price = 5,
+					Gemme="Other",
+					Description="Arbre en fil de fer doré fait main sur pierre de marbre blanc.<br /><br />Hauteur: 5cm",
+					Link="https://fr.shopping.rakuten.com/offer/buy/4806967105/petit-arbre-de-vie-sur-marbre-blanc.html",
+					Disponibility=true,
+					Reference="small_life_tree_07" ,
+					Images=new String[]{
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS07.jpeg",
+					"https://milhiecreation.milhie.fr/images/arbres/arbreS07(01).jpeg"
 					}
 				},
 			};
 
-			Category bigLifeTreeCategory = new Category { Name = "Big life trees", Products = bigLifeTree };
-			Category mediumLifeTreeCategory = new Category { Name = "Medium life trees", Products = mediumLifeTree };
+			ICollection<UnderCategory> undersTrees = new List<UnderCategory>
+			{
+				new UnderCategory { Name = "Big life trees", Products = bigLifeTree } ,
+				new UnderCategory { Name = "Medium life trees", Products = mediumLifeTree },
+				new UnderCategory { Name= "Small Life trees", Products=smallLifeTree }
+			};
+			Category lifeTrees = new Category { Name = "Life trees", UnderCategories = undersTrees };
 
-			context.AddRange(bigLifeTreeCategory,mediumLifeTreeCategory);
+			context.AddRange(lifeTrees);
 			context.SaveChanges();
 		}
 
