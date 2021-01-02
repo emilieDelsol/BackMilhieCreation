@@ -394,7 +394,7 @@ namespace APIMilhieCreation
 				{
 					Title= "Arbre de vie sur cristal de roche teinté.",
 					Price = 90,
-					Gemme="Cristal de roche",
+					Gemme="Quartz",
 					Description="Arbre de vie fait main en fil de fer et perles de rocaille le tout monté sur une géode de quartz de roche teinté.<br /><br />Hauteur: 11cm< br />Largeur: 7.5cm",
 					Link="https://fr.shopping.rakuten.com/offer/buy/4804029395/arbre-de-vie-sur-amethyste.html",
 					Disponibility=false,
@@ -412,7 +412,7 @@ namespace APIMilhieCreation
 				{
 					Title= "Arbre de vie sur cristal de roche teinté.",
 					Price = 40,
-					Gemme="Cristal de roche",
+					Gemme="Quartz",
 					Description="Arbre de vie fait main en fil de fer et perles de rocaille le tout monté sur une géode de quartz de roche teinté.<br /><br />Hauteur: 11cm< br />Largeur: 7.5cm",
 					Link="https://fr.shopping.rakuten.com/offer/buy/4804029395/arbre-de-vie-sur-amethyste.html",
 					Disponibility=false,
@@ -447,7 +447,7 @@ namespace APIMilhieCreation
 				{
 					Title= "Arbre de vie sur cristal de roche teinté.",
 					Price = 40,
-					Gemme="Cristal de roche",
+					Gemme="Quartz",
 					Description="Arbre de vie fait main en fil de fer et perles de rocaille le tout monté sur une géode de cristal de roche teinté.<br /><br />Hauteur : 11cm< br />Largeur : 7cm",
 					Link="https://fr.shopping.rakuten.com/offer/buy/4806967089/arbre-de-vie-sur-cristal-de-roche-teinte.html",
 					Disponibility=true,
@@ -465,7 +465,7 @@ namespace APIMilhieCreation
 				{
 					Title= "Arbre de vie sur tranche de bois pétrifié.",
 					Price = 60,
-					Gemme="Autre",
+					Gemme="Other",
 					Description="Arbre de vie fait main en fil de fer et perles miyuki sur quartz brut .<br /><br />27 cm de hauteur<br />Poids: 644g",
 					Link="https://fr.shopping.rakuten.com/offer/buy/4863359924/arbre-de-vie-bonsai-sur-tranche-de-bois-petrifie.html",
 					Disponibility=true,
@@ -521,7 +521,7 @@ namespace APIMilhieCreation
 				{
 					Title= "Arbre de vie sur cristal de roche.",
 					Price = 10,
-					Gemme="Cristal",
+					Gemme="Quartz",
 					Description="Petit arbre de vie en fil d'argent monté sur cristal de roche et perles en cristal de roche.<br /><br />Hauteur: 5cm< br />Largeur: 3cm",
 					Link="https://fr.shopping.rakuten.com/offer/buy/4806967096/petit-arbre-de-vie-sur-cristal-de-roche.html",
 					Disponibility=true,
@@ -605,15 +605,101 @@ namespace APIMilhieCreation
 				},
 			};
 
-			ICollection<UnderCategory> undersTrees = new List<UnderCategory>
+			ICollection<Product> dreamcatcher = new List<Product>
+			{
+				new Product
+				{
+					Title= "Piège à rêves n°1:",
+					Price = 35,
+					Gemme="None",
+					Description="<p>Diamètre du cercle principal: 30cm.</p><p>Hauteur: 70cm </ p >< p > Attrape rêve fait main en fil d'aluminium, fil de coton , perles en verre et plumes naturelles.</p> ",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main",
+					Disponibility=false,
+					Reference="dreamcatcher_01" ,
+					Images=new String[]{
+						"https://php.milhie.fr/images/piegesReves/piege.jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Piège à rêves n°2:",
+					Price = 35,
+					Gemme="None",
+					Description="<p>Diamètre du cercle principal: 30cm.</p><p>Hauteur: 60cm </ p >< p > Attrape rêve fait main en fil d'aluminium, fil de coton , perles en verre et plumes naturelles.</p> ",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main",
+					Disponibility=false,
+					Reference="dreamcatcher_02" ,
+					Images=new String[]{
+						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege01.jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Piège à rêves n°3:",
+					Price = 35,
+					Gemme="None",
+					Description="<p>Diamètre du cercle principal: 30cm.</p><p>Hauteur: 75cm </ p >< p > Attrape rêve fait main en fil d'aluminium, fil de coton beige, marron clair et foncé, perles en verre et plumes naturelles.</p> ",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main",
+					Disponibility=false,
+					Reference="dreamcatcher_03" ,
+					Images=new String[]{
+						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege02.jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Piège à rêves n°4:",
+					Price = 18,
+					Gemme="None",
+					Description="<p>Hauteur: 20cm</p><p>Piège à rêve fait main, cercle en fil d'aluminium noir, fils de coton blanc, perles en verre noires, arbre de vie en fil de fer noir et plumes naturelles.<br/>Idéal en décoration de rétroviseur</p> ",
+					Link="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main",
+					Disponibility=true,
+					Reference="dreamcatcher_04" ,
+					Images=new String[]{
+						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege03.jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Piège à rêves n°5:",
+					Price = 18,
+					Gemme="None",
+					Description="<p>Diametre: 20cm</p><p>Petit piège à rêve fait main, plumes naturelles.<br/>Idéal en décoration de rétroviseur</p> ",
+					Link="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve",
+					Disponibility=true,
+					Reference="dreamcatcher_05" ,
+					Images=new String[]{
+						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege04.jpeg"
+					}
+				},
+				new Product
+				{
+					Title= "Piège à rêves n°6:",
+					Price = 18,
+					Gemme="None",
+					Description="<p>Petit attrape rêve fait main.</p><p>Diamètre: 20cm </ p >< p > Fil de coton bleu ciel et bleu-vert pour le centre, perles en verre et hématite au centre.Plumes synthétiques.</p> ",
+					Link="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve",
+					Disponibility=true,
+					Reference="dreamcatcher_05" ,
+					Images=new String[]{
+						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege05.jpeg"
+					}
+				},
+			};
+
+			ICollection<UnderCategory> trees = new List<UnderCategory>
 			{
 				new UnderCategory { Name = "Big life trees", Products = bigLifeTree } ,
 				new UnderCategory { Name = "Medium life trees", Products = mediumLifeTree },
 				new UnderCategory { Name= "Small Life trees", Products=smallLifeTree }
 			};
-			Category lifeTrees = new Category { Name = "Life trees", UnderCategories = undersTrees };
-
-			context.AddRange(lifeTrees);
+			ICollection<UnderCategory> underDecos = new List<UnderCategory>
+			{
+				new UnderCategory{ Name="Dreamcatcher", Products=dreamcatcher}
+			};
+			Category lifeTrees = new Category { Name = "Life trees", UnderCategories = trees };
+			Category decos = new Category { Name = "Decorations", UnderCategories = underDecos };
+			context.AddRange(lifeTrees, decos);
 			context.SaveChanges();
 		}
 
