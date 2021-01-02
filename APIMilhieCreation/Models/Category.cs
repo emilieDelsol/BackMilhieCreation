@@ -5,8 +5,8 @@ namespace APIMilhieCreation.Models
 {
 	public class Category
 	{
-		public  Guid CategoryId { get; set; }
-		public  String Name { get; set; }
-		public  ICollection<UnderCategory> UnderCategories { get; set; }
+		public virtual Guid CategoryId { get; set; }
+		public virtual String Name { get; set; }
+		public virtual ICollection<UnderCategory> UnderCategories { get; set; }
 	}
 }

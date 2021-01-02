@@ -12,12 +12,12 @@ namespace APIMilhieCreation
 		public DbSet<UnderCategory> UnderCategories { get; set; }
 		public DbSet<Category> Categories { get; set; }
 
-		/*public MilhieCreationContext(DbContextOptions<MilhieCreationContext> options)
-	   : base(options) { }*/
-		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		public MilhieCreationContext(DbContextOptions<MilhieCreationContext> options)
+	   : base(options) { }
+		/*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
 			optionsBuilder.UseSqlServer(@"Server=LOCALHOST\SQLEXPRESS;Database=MilhieCreation;Integrated Security=True;MultipleActiveResultSets=True");
-		}
+		}*/
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			modelBuilder.Entity<Product>()

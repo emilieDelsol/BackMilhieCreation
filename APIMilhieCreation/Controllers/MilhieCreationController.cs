@@ -18,10 +18,10 @@ namespace APIMilhieCreation.Controllers
 			_context = injectedMilhieCreationContext;
 		}
 		[HttpGet]
-		public IEnumerable<Product> GetAllProducts()
+		public IEnumerable<Product> GetAllLifeTree()
 			{
 			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products select a;
+			products = from a in _context.Products  select a;
 			return products;
 			}
 	}
