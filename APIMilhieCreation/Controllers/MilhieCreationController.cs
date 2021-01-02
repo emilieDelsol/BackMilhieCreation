@@ -23,13 +23,48 @@ namespace APIMilhieCreation.Controllers
 			return products;
 			}
 		
-		[HttpGet("[controller]/LifeTree")]
-		public IEnumerable<Product> GetAllLifeTree()
+		[HttpGet("[controller]/BigLifeTree")]
+		public IEnumerable<Product> GetBigLifeTree()
 			{
 			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.Category.Name=="LifeTree" select a ;
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId==1 select a ;
 			return products;
 			}
+		[HttpGet("[controller]/MediumLifeTree")]
+		public IEnumerable<Product> GetMediumLifeTree()
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 2 select a;
+			return products;
+		}
+		[HttpGet("[controller]/SmallLifeTree")]
+		public IEnumerable<Product> GetSmallLifeTree()
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 3 select a;
+			return products;
+		}
+		[HttpGet("[controller]/Dreamcatcher")]
+		public IEnumerable<Product> GetDreamcatcher()
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 4 select a;
+			return products;
+		}
+		[HttpGet("[controller]/WallDeco")]
+		public IEnumerable<Product> GetWallDecor()
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 5 select a;
+			return products;
+		}
+		[HttpGet("[controller]/WeddingDeco")]
+		public IEnumerable<Product> GetWeddingDeco()
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 6 select a;
+			return products;
+		}
 
 		[HttpGet("[controller]/Jewerly")]
 		public IEnumerable<Product> GetJewerly()

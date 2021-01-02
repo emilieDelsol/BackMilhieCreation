@@ -17,8 +17,8 @@ namespace APIMilhieCreation.Models
 		public virtual String Reference { get; set; }
 		[NotMapped]
 		public virtual String[] Images { get ; set ; } 
-		public virtual Int32 CategoryId { get; set; }
+		
 		[JsonIgnore]
-		public virtual Category Category { get; set; }
+		public virtual UnderCategory UnderCategory { get; set; }
 	}
 }
