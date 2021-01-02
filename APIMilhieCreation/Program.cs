@@ -1688,29 +1688,29 @@ namespace APIMilhieCreation
 			};
 			ICollection<UnderCategory> trees = new List<UnderCategory>
 			{
-				new UnderCategory { Name = "Big life trees", Products = bigLifeTree } ,
-				new UnderCategory { Name = "Medium life trees", Products = mediumLifeTree },
-				new UnderCategory { Name= "Small Life trees", Products=smallLifeTree }
+				new UnderCategory { Name = "BigLifeTrees", Products = bigLifeTree } ,
+				new UnderCategory { Name = "MediumLifeTrees", Products = mediumLifeTree },
+				new UnderCategory { Name= "SmallLifeTrees", Products=smallLifeTree }
 			};
 			ICollection<UnderCategory> decorations = new List<UnderCategory>
 			{
 				new UnderCategory{ Name="Dreamcatcher", Products=dreamcatcher},
-				new UnderCategory{ Name="Wall decos", Products=wallDecos},
+				new UnderCategory{ Name="WallDecos", Products=wallDecos},
 				new UnderCategory{ Name="Wedding",Products=weddingDecos}
 			};
 			ICollection<UnderCategory> jewerly = new List<UnderCategory>
 			{
 				new UnderCategory {Name="Rings", Products=ring},
 				new UnderCategory {Name="Earrings", Products=earrings},
-				new UnderCategory { Name="Bracelets fins", Products=slimBracelet},
+				new UnderCategory { Name="BraceletsFins", Products=slimBracelet},
 				new UnderCategory { Name="Manchettes", Products=manchettes},
-				new UnderCategory { Name="Bracelets de lytothérapie", Products=lyto},
-				new UnderCategory { Name="Bracelets en fil d'aluminium", Products=braceletAlu},
+				new UnderCategory { Name="BraceletsLytothérapie", Products=lyto},
+				new UnderCategory { Name="BraceletsAluminium", Products=braceletAlu},
 				new UnderCategory { Name="Colliers", Products=necklace},
-				new UnderCategory { Name="Pendentifs chakras", Products=pendantChakras},
-				new UnderCategory { Name="Pendentifs lytothérapie", Products=pendantLyto},
+				new UnderCategory { Name="PendentifsChakras", Products=pendantChakras},
+				new UnderCategory { Name="PendentifsLytothérapie", Products=pendantLyto},
 			};
-			Category lifeTrees = new Category { Name = "Life trees", UnderCategories = trees };
+			Category lifeTrees = new Category { Name = "LifeTrees", UnderCategories = trees };
 			Category decos = new Category { Name = "Decorations", UnderCategories = decorations };
 			Category jewerlies = new Category { Name = "Bijoux", UnderCategories = jewerly };
 
