@@ -7,17 +7,18 @@ namespace APIMilhieCreation.Models
 {
 	public class Product
 	{
-		public  Int32 ProductId { get; set; }
-		public  String Title { get; set; }
-		public  Decimal Price { get; set; }
-		public  String Gemme { get; set; }
-		public  String Description { get; set; }
-		public  String Link { get; set; }
-		public  bool Disponibility { get; set; }
-		public String Reference { get; set; }
+		public virtual  Int32 ProductId { get; set; }
+		public virtual  String Title { get; set; }
+		public virtual  Decimal Price { get; set; }
+		public virtual  String Gemme { get; set; }
+		public virtual  String Description { get; set; }
+		public virtual  String Link { get; set; }
+		public virtual  bool Disponibility { get; set; }
+		public virtual String Reference { get; set; }
 		[NotMapped]
-		public String[] Images { get ; set ; } 
+		public virtual String[] Images { get ; set ; } 
+		
 		[JsonIgnore]
-		public Category Category { get; set; }
+		public virtual UnderCategory UnderCategory { get; set; }
 	}
 }
