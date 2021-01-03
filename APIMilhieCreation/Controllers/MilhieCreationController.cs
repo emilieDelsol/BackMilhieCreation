@@ -16,124 +16,35 @@ namespace APIMilhieCreation.Controllers
 			_context = injectedMilhieCreationContext;
 		}
 		[HttpGet("[controller]")]
-		public IEnumerable<Product> GetAllProducts()
-			{
+		public IEnumerable<Product> GetAllProducts(int Id)
+		{
 			IEnumerable<Product> products = new List<Product>();
 			products = from a in _context.Products  select a;
 			return products;
-			}
-		
-		[HttpGet("[controller]/BigLifeTree")]
-		public IEnumerable<Product> GetBigLifeTree()
+		}
+		[HttpGet("[controller]/{Id}")]
+		public IEnumerable<Product> GetProductsById(int Id)
 			{
 			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId==1 select a ;
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == Id select a; 			
 			return products;
 			}
-		[HttpGet("[controller]/MediumLifeTree")]
-		public IEnumerable<Product> GetMediumLifeTree()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 2 select a;
-			return products;
-		}
-		[HttpGet("[controller]/SmallLifeTree")]
-		public IEnumerable<Product> GetSmallLifeTree()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 3 select a;
-			return products;
-		}
-		[HttpGet("[controller]/Dreamcatcher")]
-		public IEnumerable<Product> GetDreamcatcher()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 4 select a;
-			return products;
-		}
-		[HttpGet("[controller]/WallDeco")]
-		public IEnumerable<Product> GetWallDecor()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 5 select a;
-			return products;
-		}
-		[HttpGet("[controller]/WeddingDeco")]
-		public IEnumerable<Product> GetWeddingDeco()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 6 select a;
-			return products;
-		}
-		[HttpGet("[controller]/Rings")]
-		public IEnumerable<Product> GetRings()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 7 select a;
-			return products;
-		}
-		[HttpGet("[controller]/Earrings")]
-		public IEnumerable<Product> GetEarrings()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 8 select a;
-			return products;
-		}
 
-		[HttpGet("[controller]/BraceletsFins")]
-		public IEnumerable<Product> GetBraceletsFins()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 9 select a;
-			return products;
-		}
-		
-		[HttpGet("[controller]/Manchettes")]
-		public IEnumerable<Product> GetManchettes()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 10 select a;
-			return products;
-		}
-		
-		[HttpGet("[controller]/BraceletLyto")]
-		public IEnumerable<Product> GetBraceletLyto()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 11 select a;
-			return products;
-		}
-		
-		[HttpGet("[controller]/BraceletFin")]
-		public IEnumerable<Product> GetBraceletFin()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 12 select a;
-			return products;
-		}
-		[HttpGet("[controller]/Necklace")]
-		public IEnumerable<Product> GetNecklace()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 13 select a;
-			return products;
-		}
-		[HttpGet("[controller]/PendantChakras")]
-		public IEnumerable<Product> GetPendantChackras()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 14 select a;
-			return products;
-		}
-		
-		[HttpGet("[controller]/PendantLyto")]
-		public IEnumerable<Product> GetPendantLyto()
-		{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == 15 select a;
-			return products;
-		}
-
-		
+		//1 -> big Life Tree
+		//2 -> medium life tree
+		//3 -> small life tree
+		//4 -> dreamcatcher
+		//5-> wall deco
+		//6-> wedding deco
+		//7-> rings
+		//8-> earrings
+		//9-> bracelets fins
+		//10-> manchettes
+		//11-> bracelets lyto
+		//12-> bracelets fil Alu (W)
+		//13-> necklace
+		//14-> pendant ch	ackras
+		//15-> pendant lyto
+	
 	}
 }
