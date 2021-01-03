@@ -16,20 +16,12 @@ namespace APIMilhieCreation.Controllers
 			_context = injectedMilhieCreationContext;
 		}
 		[HttpGet("[controller]")]
-		public IEnumerable<Product> GetAllProducts(int Id)
+		public IEnumerable<Product> GetAllProducts()
 		{
 			IEnumerable<Product> products = new List<Product>();
 			products = from a in _context.Products  select a;
 			return products;
 		}
-		[HttpGet("[controller]/{Id}")]
-		public IEnumerable<Product> GetProductsById(int Id)
-			{
-			IEnumerable<Product> products = new List<Product>();
-			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == Id select a; 			
-			return products;
-			}
-
 		//1 -> big Life Tree
 		//2 -> medium life tree
 		//3 -> small life tree
@@ -45,6 +37,23 @@ namespace APIMilhieCreation.Controllers
 		//13-> necklace
 		//14-> pendant ch	ackras
 		//15-> pendant lyto
-	
+		[HttpGet("[controller]/UnderCategory/{Id}")]
+		public IEnumerable<Product> GetProductsByUnderCategoryId(int Id)
+			{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.UnderCategoryId == Id select a; 			
+			return products;
+			}
+
+		//1 -> All Life tree
+		//2 -> All decorations
+		//3 -> All jewerly
+		[HttpGet("[controller]/Category/{Id}")]
+		public IEnumerable<Product> GetProductsByCategoryId(int Id)
+		{
+			IEnumerable<Product> products = new List<Product>();
+			products = from a in _context.Products where a.UnderCategory.CategoryId == Id select a;
+			return products;
+		}
 	}
 }
