@@ -37,11 +37,11 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre01.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre01(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre01(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre01(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre01(04).jpeg",
+						"/images/arbres/arbre01.jpeg" ,
+						"/images/arbres/arbre01(01).jpeg",
+						"/images/arbres/arbre01(02).jpeg",
+						"/images/arbres/arbre01(03).jpeg",
+						"/images/arbres/arbre01(04).jpeg",
 					}
 				},
 				new Product
@@ -54,9 +54,9 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre02.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre02(01).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre02(02).jpeg"
+						"/images/arbres/arbre02.jpeg" ,
+						"/images/arbres/arbre02(01).jpeg" ,
+						"/images/arbres/arbre02(02).jpeg"
 					}
 				},
 				new Product
@@ -69,12 +69,12 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_03" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre03(05).jpeg"
+						"/images/arbres/arbre03.jpeg" ,
+						"/images/arbres/arbre03(01).jpeg",
+						"/images/arbres/arbre03(02).jpeg",
+						"/images/arbres/arbre03(03).jpeg",
+						"/images/arbres/arbre03(04).jpeg",
+						"/images/arbres/arbre03(05).jpeg"
 					}
 				},
 				new Product
@@ -87,9 +87,9 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_04" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre04(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre04(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre04(03).jpeg"
+						"/images/arbres/arbre04(01).jpeg",
+						"/images/arbres/arbre04(02).jpeg",
+						"/images/arbres/arbre04(03).jpeg"
 					}
 				},
 				new Product
@@ -102,11 +102,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_05" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre05(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre05(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre05(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre05(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre05(05).jpeg"
+						"/images/arbres/arbre05(02).jpeg",
+						"/images/arbres/arbre05(03).jpeg",
+						"/images/arbres/arbre05(04).jpeg",
+						"/images/arbres/arbre05(01).jpeg",
+						"/images/arbres/arbre05(05).jpeg"
 					}
 				},
 				new Product
@@ -119,12 +119,12 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_06" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06.jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre06(05).jpeg"
+						"/images/arbres/arbre06.jpeg",
+						"/images/arbres/arbre06(01).jpeg",
+						"/images/arbres/arbre06(02).jpeg",
+						"/images/arbres/arbre06(03).jpeg",
+						"/images/arbres/arbre06(04).jpeg",
+						"/images/arbres/arbre06(05).jpeg"
 					}
 				},
 				new Product
@@ -137,11 +137,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_07" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre07.jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre07(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre07(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre07(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre07(04).jpeg"
+						"/images/arbres/arbre07.jpeg",
+						"/images/arbres/arbre07(01).jpeg",
+						"/images/arbres/arbre07(02).jpeg",
+						"/images/arbres/arbre07(03).jpeg",
+						"/images/arbres/arbre07(04).jpeg"
 					}
 				},
 				new Product
@@ -154,11 +154,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_08" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre08.jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre08(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre08(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre08(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre08(04).jpeg"
+						"/images/arbres/arbre08.jpeg",
+						"/images/arbres/arbre08(01).jpeg",
+						"/images/arbres/arbre08(02).jpeg",
+						"/images/arbres/arbre08(03).jpeg",
+						"/images/arbres/arbre08(04).jpeg"
 					}
 				},
 				new Product
@@ -171,26 +171,26 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_09" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09.jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(01).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(03).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(06).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(07).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(08).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(09).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(10).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(11).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(12).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(13).jpeg ",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(14).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(15).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(16).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(17).jpeg,",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(18).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre09(19).jpeg" ,
+						"/images/arbres/arbre09.jpeg",
+						"/images/arbres/arbre09(01).jpeg" ,
+						"/images/arbres/arbre09(02).jpeg",
+						"/images/arbres/arbre09(03).jpeg" ,
+						"/images/arbres/arbre09(04).jpeg",
+						"/images/arbres/arbre09(05).jpeg",
+						"/images/arbres/arbre09(06).jpeg",
+						"/images/arbres/arbre09(07).jpeg" ,
+						"/images/arbres/arbre09(08).jpeg",
+						"/images/arbres/arbre09(09).jpeg",
+						"/images/arbres/arbre09(10).jpeg" ,
+						"/images/arbres/arbre09(11).jpeg" ,
+						"/images/arbres/arbre09(12).jpeg" ,
+						"/images/arbres/arbre09(13).jpeg ",
+						"/images/arbres/arbre09(14).jpeg" ,
+						"/images/arbres/arbre09(15).jpeg" ,
+						"/images/arbres/arbre09(16).jpeg" ,
+						"/images/arbres/arbre09(17).jpeg,",
+						"/images/arbres/arbre09(18).jpeg" ,
+						"/images/arbres/arbre09(19).jpeg" ,
 					}
 				},
 				new Product
@@ -203,21 +203,21 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_10" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(06).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(07).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(08).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(09).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(10).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(11).jpeg ",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(12).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(13).jpeg ",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre10(14).jpeg"
+						"/images/arbres/arbre10.jpeg" ,
+						"/images/arbres/arbre10(01).jpeg",
+						"/images/arbres/arbre10(02).jpeg",
+						"/images/arbres/arbre10(03).jpeg",
+						"/images/arbres/arbre10(04).jpeg",
+						"/images/arbres/arbre10(05).jpeg",
+						"/images/arbres/arbre10(06).jpeg",
+						"/images/arbres/arbre10(07).jpeg",
+						"/images/arbres/arbre10(08).jpeg",
+						"/images/arbres/arbre10(09).jpeg",
+						"/images/arbres/arbre10(10).jpeg",
+						"/images/arbres/arbre10(11).jpeg ",
+						"/images/arbres/arbre10(12).jpeg",
+						"/images/arbres/arbre10(13).jpeg ",
+						"/images/arbres/arbre10(14).jpeg"
 					}
 				},
 				new Product
@@ -230,23 +230,23 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_11" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11.jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(06).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(07).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(08).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(09).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(10).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(11).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(12).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(13).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(14).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(15).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre11(16).jpeg"
+						"/images/arbres/arbre11.jpeg",
+						"/images/arbres/arbre11(01).jpeg",
+						"/images/arbres/arbre11(02).jpeg",
+						"/images/arbres/arbre11(03).jpeg",
+						"/images/arbres/arbre11(04).jpeg",
+						"/images/arbres/arbre11(05).jpeg",
+						"/images/arbres/arbre11(06).jpeg",
+						"/images/arbres/arbre11(07).jpeg",
+						"/images/arbres/arbre11(08).jpeg",
+						"/images/arbres/arbre11(09).jpeg",
+						"/images/arbres/arbre11(10).jpeg",
+						"/images/arbres/arbre11(11).jpeg",
+						"/images/arbres/arbre11(12).jpeg",
+						"/images/arbres/arbre11(13).jpeg",
+						"/images/arbres/arbre11(14).jpeg",
+						"/images/arbres/arbre11(15).jpeg",
+						"/images/arbres/arbre11(16).jpeg"
 					}
 				},
 				new Product
@@ -259,9 +259,9 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="big_life_tree_12" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre12.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre12(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre12(02).jpg"
+						"/images/arbres/arbre12.jpg",
+						"/images/arbres/arbre12(01).jpg",
+						"/images/arbres/arbre12(02).jpg"
 					}
 				},
 				new Product
@@ -274,15 +274,15 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_13" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(02).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(03).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(04).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(05).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(06).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(07).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre13(08).jpg"
+						"/images/arbres/arbre13.jpg",
+						"/images/arbres/arbre13(01).jpg",
+						"/images/arbres/arbre13(02).jpg",
+						"/images/arbres/arbre13(03).jpg",
+						"/images/arbres/arbre13(04).jpg",
+						"/images/arbres/arbre13(05).jpg",
+						"/images/arbres/arbre13(06).jpg",
+						"/images/arbres/arbre13(07).jpg",
+						"/images/arbres/arbre13(08).jpg"
 					}
 				},
 				new Product
@@ -295,17 +295,17 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_14" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(02).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(03).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(04).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(05).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(06).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(07).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(08).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(09).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre14(10).jpg"
+						"/images/arbres/arbre14.jpg",
+						"/images/arbres/arbre14(01).jpg",
+						"/images/arbres/arbre14(02).jpg",
+						"/images/arbres/arbre14(03).jpg",
+						"/images/arbres/arbre14(04).jpg",
+						"/images/arbres/arbre14(05).jpg",
+						"/images/arbres/arbre14(06).jpg",
+						"/images/arbres/arbre14(07).jpg",
+						"/images/arbres/arbre14(08).jpg",
+						"/images/arbres/arbre14(09).jpg",
+						"/images/arbres/arbre14(10).jpg"
 					}
 				},
 				new Product
@@ -318,17 +318,17 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_15" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(02).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(03).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(04).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(05).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(06).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(07).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(08).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(09).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre15(10).jpg"
+						"/images/arbres/arbre15.jpg",
+						"/images/arbres/arbre15(01).jpg",
+						"/images/arbres/arbre15(02).jpg",
+						"/images/arbres/arbre15(03).jpg",
+						"/images/arbres/arbre15(04).jpg",
+						"/images/arbres/arbre15(05).jpg",
+						"/images/arbres/arbre15(06).jpg",
+						"/images/arbres/arbre15(07).jpg",
+						"/images/arbres/arbre15(08).jpg",
+						"/images/arbres/arbre15(09).jpg",
+						"/images/arbres/arbre15(10).jpg"
 					}
 				},
 				new Product
@@ -341,13 +341,13 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_16" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(02).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(03).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(04).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(05).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre16(06).jpg"
+						"/images/arbres/arbre16.jpg",
+						"/images/arbres/arbre16(01).jpg",
+						"/images/arbres/arbre16(02).jpg",
+						"/images/arbres/arbre16(03).jpg",
+						"/images/arbres/arbre16(04).jpg",
+						"/images/arbres/arbre16(05).jpg",
+						"/images/arbres/arbre16(06).jpg"
 					}
 				},
 				new Product
@@ -360,9 +360,9 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="big_life_tree_17" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbre17.jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre17(01).jpg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbre17(02).jpg"
+						"/images/arbres/arbre17.jpg",
+						"/images/arbres/arbre17(01).jpg",
+						"/images/arbres/arbre17(02).jpg"
 					}
 				}
 			};
@@ -379,15 +379,15 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_01" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01.jpeg" ,
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(05).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(06).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(07).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM01(08).jpeg",
+					"/images/arbres/arbreM01.jpeg" ,
+					"/images/arbres/arbreM01(01).jpeg",
+					"/images/arbres/arbreM01(02).jpeg",
+					"/images/arbres/arbreM01(03).jpeg",
+					"/images/arbres/arbreM01(04).jpeg",
+					"/images/arbres/arbreM01(05).jpeg",
+					"/images/arbres/arbreM01(06).jpeg",
+					"/images/arbres/arbreM01(07).jpeg",
+					"/images/arbres/arbreM01(08).jpeg",
 					}
 				},
 				new Product
@@ -400,12 +400,12 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_02" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02.jpeg" ,
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM02(05).jpeg",
+					"/images/arbres/arbreM02.jpeg" ,
+					"/images/arbres/arbreM02(01).jpeg",
+					"/images/arbres/arbreM02(02).jpeg",
+					"/images/arbres/arbreM02(03).jpeg",
+					"/images/arbres/arbreM02(04).jpeg",
+					"/images/arbres/arbreM02(05).jpeg",
 					}
 				},
 				new Product
@@ -418,13 +418,13 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_03" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03.jpeg" ,
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(05).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM03(06).jpeg",
+					"/images/arbres/arbreM03.jpeg" ,
+					"/images/arbres/arbreM03(01).jpeg",
+					"/images/arbres/arbreM03(02).jpeg",
+					"/images/arbres/arbreM03(03).jpeg",
+					"/images/arbres/arbreM03(04).jpeg",
+					"/images/arbres/arbreM03(05).jpeg",
+					"/images/arbres/arbreM03(06).jpeg",
 					}
 				},
 				new Product
@@ -437,10 +437,10 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="medium_life_tree_04" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM04.jpeg" ,
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreM04(03).jpeg",
+					"/images/arbres/arbreM04.jpeg" ,
+					"/images/arbres/arbreM04(01).jpeg",
+					"/images/arbres/arbreM04(02).jpeg",
+					"/images/arbres/arbreM04(03).jpeg",
 					}
 				},
 				new Product
@@ -453,12 +453,12 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_05" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(01).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(02).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(03).jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM05(05).jpeg" ,
+						"/images/arbres/arbreM05.jpeg" ,
+						"/images/arbres/arbreM05(01).jpeg" ,
+						"/images/arbres/arbreM05(02).jpeg" ,
+						"/images/arbres/arbreM05(03).jpeg" ,
+						"/images/arbres/arbreM05(04).jpeg",
+						"/images/arbres/arbreM05(05).jpeg" ,
 					}
 				},
 				new Product
@@ -471,16 +471,16 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="medium_life_tree_06" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06.jpeg" ,
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(06).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(07).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(08).jpeg",
-						"https://milhiecreation.milhie.fr/images/arbres/arbreM06(09).jpeg",
+						"/images/arbres/arbreM06.jpeg" ,
+						"/images/arbres/arbreM06(01).jpeg",
+						"/images/arbres/arbreM06(02).jpeg",
+						"/images/arbres/arbreM06(03).jpeg",
+						"/images/arbres/arbreM06(04).jpeg",
+						"/images/arbres/arbreM06(05).jpeg",
+						"/images/arbres/arbreM06(06).jpeg",
+						"/images/arbres/arbreM06(07).jpeg",
+						"/images/arbres/arbreM06(08).jpeg",
+						"/images/arbres/arbreM06(09).jpeg",
 					}
 				},
 			};
@@ -496,8 +496,8 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_01" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS01.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS01(01).jpeg"	
+					"/images/arbres/arbreS01.jpeg",
+					"/images/arbres/arbreS01(01).jpeg"	
 					}
 				},
 				new Product
@@ -510,11 +510,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_02" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS02.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS02(04).jpeg"
+					"/images/arbres/arbreS02.jpeg",
+					"/images/arbres/arbreS02(01).jpeg",
+					"/images/arbres/arbreS02(02).jpeg",
+					"/images/arbres/arbreS02(03).jpeg",
+					"/images/arbres/arbreS02(04).jpeg"
 					}
 				},
 				new Product
@@ -527,12 +527,12 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_03" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS03(05).jpeg"
+					"/images/arbres/arbreS03.jpeg",
+					"/images/arbres/arbreS03(01).jpeg",
+					"/images/arbres/arbreS03(02).jpeg",
+					"/images/arbres/arbreS03(03).jpeg",
+					"/images/arbres/arbreS03(04).jpeg",
+					"/images/arbres/arbreS03(05).jpeg"
 					}
 				},
 				new Product
@@ -545,11 +545,11 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="small_life_tree_04" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS04.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS04(04).jpeg"
+					"/images/arbres/arbreS04.jpeg",
+					"/images/arbres/arbreS04(01).jpeg",
+					"/images/arbres/arbreS04(02).jpeg",
+					"/images/arbres/arbreS04(03).jpeg",
+					"/images/arbres/arbreS04(04).jpeg"
 					}
 				},
 				new Product
@@ -562,14 +562,14 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_05" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(03).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(05).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(06).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS05(07).jpeg"
+					"/images/arbres/arbreS05.jpeg",
+					"/images/arbres/arbreS05(01).jpeg",
+					"/images/arbres/arbreS05(02).jpeg",
+					"/images/arbres/arbreS05(03).jpeg",
+					"/images/arbres/arbreS05(04).jpeg",
+					"/images/arbres/arbreS05(05).jpeg",
+					"/images/arbres/arbreS05(06).jpeg",
+					"/images/arbres/arbreS05(07).jpeg"
 					}
 				},
 				new Product
@@ -582,11 +582,11 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_06" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS06.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(01).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(02).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(04).jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS06(05).jpeg"
+					"/images/arbres/arbreS06.jpeg",
+					"/images/arbres/arbreS06(01).jpeg",
+					"/images/arbres/arbreS06(02).jpeg",
+					"/images/arbres/arbreS06(04).jpeg",
+					"/images/arbres/arbreS06(05).jpeg"
 					}
 				},
 				new Product
@@ -599,8 +599,8 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="small_life_tree_07" ,
 					Images=new String[]{
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS07.jpeg",
-					"https://milhiecreation.milhie.fr/images/arbres/arbreS07(01).jpeg"
+					"/images/arbres/arbreS07.jpeg",
+					"/images/arbres/arbreS07(01).jpeg"
 					}
 				},
 			};
@@ -617,7 +617,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="dreamcatcher_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/piegesReves/piege.jpeg"
+						"/images/piegesReves/piege.jpeg"
 					}
 				},
 				new Product
@@ -630,7 +630,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="dreamcatcher_02" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege01.jpeg"
+						"/images/piegesReves/piege01.jpeg"
 					}
 				},
 				new Product
@@ -643,7 +643,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="dreamcatcher_03" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege02.jpeg"
+						"/images/piegesReves/piege02.jpeg"
 					}
 				},
 				new Product
@@ -656,7 +656,7 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="dreamcatcher_04" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege03.jpeg"
+						"/images/piegesReves/piege03.jpeg"
 					}
 				},
 				new Product
@@ -669,7 +669,7 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="dreamcatcher_05" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege04.jpeg"
+						"/images/piegesReves/piege04.jpeg"
 					}
 				},
 				new Product
@@ -682,7 +682,7 @@ namespace APIMilhieCreation
 					Disponibility=true,
 					Reference="dreamcatcher_05" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/piegesReves/piege05.jpeg"
+						"/images/piegesReves/piege05.jpeg"
 					}
 				},
 			};
@@ -698,7 +698,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="dino_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoDino1.jpeg"
+						"/images/decosMurales/decoDino1.jpeg"
 					}
 				},
 			new Product
@@ -711,7 +711,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="dino_02" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoDino2.jpeg"
+						"/images/decosMurales/decoDino2.jpeg"
 					}
 				},
 			new Product
@@ -724,7 +724,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="pompiers_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoPompier.jpeg"
+						"/images/decosMurales/decoPompier.jpeg"
 					}
 				},
 			new Product
@@ -737,7 +737,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="princess_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoChateauPrincess.jpeg"
+						"/images/decosMurales/decoChateauPrincess.jpeg"
 					}
 				},
 			new Product
@@ -750,7 +750,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="castel_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoChateauFort.jpeg"
+						"/images/decosMurales/decoChateauFort.jpeg"
 					}
 				},
 			new Product
@@ -763,7 +763,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="coeur_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoNuage.png"
+						"/images/decosMurales/decoNuage.png"
 					}
 				},
 			new Product
@@ -776,7 +776,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="coeur_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/decoNuage.png"
+						"/images/decosMurales/decoNuage.png"
 					}
 				},
 			new Product
@@ -789,7 +789,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="coeur_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/velo.jpeg"
+						"/images/decosMurales/velo.jpeg"
 					}
 				},
 			new Product
@@ -802,7 +802,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="buzz_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/buzz.png"
+						"/images/decosMurales/buzz.png"
 					}
 				},
 			new Product
@@ -815,7 +815,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="buzz_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/coeur.jpeg"
+						"/images/decosMurales/coeur.jpeg"
 					}
 				},
 			new Product
@@ -828,7 +828,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="wolf_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/loup.png"
+						"/images/decosMurales/loup.png"
 					}
 				},
 			new Product
@@ -841,7 +841,7 @@ namespace APIMilhieCreation
 					Disponibility=false,
 					Reference="cat_01" ,
 					Images=new String[]{
-						"https://www.milhiecreation.milhie.fr/images/decosMurales/chat.jpeg"
+						"/images/decosMurales/chat.jpeg"
 					}
 				},
 			};
@@ -857,12 +857,12 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="wedding_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage1.jpeg(05).jpeg"
+						"/images/decosMariage/mariage1.jpeg",
+						"/images/decosMariage/mariage1.jpeg(01).jpeg",
+						"/images/decosMariage/mariage1.jpeg(02).jpeg",
+						"/images/decosMariage/mariage1.jpeg(03).jpeg",
+						"/images/decosMariage/mariage1.jpeg(04).jpeg",
+						"/images/decosMariage/mariage1.jpeg(05).jpeg"
 					}
 				},
 				new Product
@@ -875,17 +875,17 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="wedding_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2.jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(06).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(07).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(08).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(09).jpeg",
-						"https://milhiecreation.milhie.fr/images/decosMariage/mariage2(10).jpeg"
+						"/images/decosMariage/mariage2.jpeg",
+						"/images/decosMariage/mariage2(01).jpeg",
+						"/images/decosMariage/mariage2(02).jpeg",
+						"/images/decosMariage/mariage2(03).jpeg",
+						"/images/decosMariage/mariage2(04).jpeg",
+						"/images/decosMariage/mariage2(05).jpeg",
+						"/images/decosMariage/mariage2(06).jpeg",
+						"/images/decosMariage/mariage2(07).jpeg",
+						"/images/decosMariage/mariage2(08).jpeg",
+						"/images/decosMariage/mariage2(09).jpeg",
+						"/images/decosMariage/mariage2(10).jpeg"
 					}
 				},
 			};
@@ -901,7 +901,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague1_259.jpeg"
+						"/images/bagues/bague1_259.jpeg"
 					}
 				},
 				new Product
@@ -914,7 +914,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague2_259.jpeg"
+						"/images/bagues/bague2_259.jpeg"
 					}
 				},
 				new Product
@@ -927,7 +927,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_03" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague3_259.jpeg"
+						"/images/bagues/bague3_259.jpeg"
 					}
 				},
 				new Product
@@ -940,7 +940,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_04" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague4_259.jpeg"
+						"/images/bagues/bague4_259.jpeg"
 					}
 				},
 				new Product
@@ -953,7 +953,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_05" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague5_259.jpg"
+						"/images/bagues/bague5_259.jpg"
 					}
 				},
 				new Product
@@ -966,7 +966,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_06" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague6_259.jpg"
+						"/images/bagues/bague6_259.jpg"
 					}
 				},
 				new Product
@@ -979,7 +979,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_07" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague7_259.jpg"
+						"/images/bagues/bague7_259.jpg"
 					}
 				},
 				new Product
@@ -992,7 +992,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="ring_08" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bagues/bague8_259.jpg"
+						"/images/bagues/bague8_259.jpg"
 					}
 				},
 			};
@@ -1008,7 +1008,7 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="earring_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bijoux/boucles/boucles1.jpeg"
+						"/images/bijoux/boucles/boucles1.jpeg"
 					}
 				},
 				new Product
@@ -1021,7 +1021,7 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="earring_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/under.jpg"
+						"/images/under.jpg"
 					}
 				},
 				new Product
@@ -1034,7 +1034,7 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="earring_03" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/under.jpg"
+						"/images/under.jpg"
 					}
 				},
 				new Product
@@ -1047,7 +1047,7 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="earring_04" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/under.jpg"
+						"/images/under.jpg"
 					}
 				},
 			};
@@ -1063,10 +1063,10 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_fin_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin1.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin1(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin1(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin1(03).jpeg"
+						"/images/bracelets/fin1.jpeg",
+						"/images/bracelets/fin1(01).jpeg",
+						"/images/bracelets/fin1(02).jpeg",
+						"/images/bracelets/fin1(03).jpeg"
 					}
 				},
 				new Product
@@ -1079,13 +1079,13 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_fin_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin2(06).jpeg"
+						"/images/bracelets/fin2.jpeg",
+						"/images/bracelets/fin2(01).jpeg",
+						"/images/bracelets/fin2(02).jpeg",
+						"/images/bracelets/fin2(03).jpeg",
+						"/images/bracelets/fin2(04).jpeg",
+						"/images/bracelets/fin2(05).jpeg",
+						"/images/bracelets/fin2(06).jpeg"
 					}
 				},
 				new Product
@@ -1098,9 +1098,9 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_fin_03" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin3.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin3(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin3(02).jpeg"
+						"/images/bracelets/fin3.jpeg",
+						"/images/bracelets/fin3(01).jpeg",
+						"/images/bracelets/fin3(02).jpeg"
 					}
 				},
 				new Product
@@ -1113,10 +1113,10 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_fin_04" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin4.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin4(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin4(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin4(03).jpeg"
+						"/images/bracelets/fin4.jpeg",
+						"/images/bracelets/fin4(01).jpeg",
+						"/images/bracelets/fin4(02).jpeg",
+						"/images/bracelets/fin4(03).jpeg"
 					}
 				},
 				new Product
@@ -1129,7 +1129,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_fin_05" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin5.jpeg"
+						"/images/bracelets/fin5.jpeg"
 					}
 				},
 				new Product
@@ -1142,11 +1142,11 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_fin_06" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/fin6.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin6(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin6(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin6(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/fin6(04).jpeg"
+						"/images/bracelets/fin6.jpeg",
+						"/images/bracelets/fin6(01).jpeg",
+						"/images/bracelets/fin6(02).jpeg",
+						"/images/bracelets/fin6(03).jpeg",
+						"/images/bracelets/fin6(04).jpeg"
 					}
 				},
 			};
@@ -1162,8 +1162,8 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="manchette_01" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette1.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette1(01).jpeg"
+						"/images/bracelets/manchette1.jpeg",
+						"/images/bracelets/manchette1(01).jpeg"
 					}
 				},
 				new Product
@@ -1176,8 +1176,8 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="manchette_02" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette2.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette2(01).jpeg"
+						"/images/bracelets/manchette2.jpeg",
+						"/images/bracelets/manchette2(01).jpeg"
 					}
 				},
 				new Product
@@ -1190,13 +1190,13 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="manchette_03" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette3(06).jpeg"
+						"/images/bracelets/manchette3.jpeg",
+						"/images/bracelets/manchette3(01).jpeg",
+						"/images/bracelets/manchette3(02).jpeg",
+						"/images/bracelets/manchette3(03).jpeg",
+						"/images/bracelets/manchette3(04).jpeg",
+						"/images/bracelets/manchette3(05).jpeg",
+						"/images/bracelets/manchette3(06).jpeg"
 					}
 				},
 				new Product
@@ -1209,12 +1209,12 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="manchette_04" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette4(05).jpeg"
+						"/images/bracelets/manchette4.jpeg",
+						"/images/bracelets/manchette4(01).jpeg",
+						"/images/bracelets/manchette4(02).jpeg",
+						"/images/bracelets/manchette4(03).jpeg",
+						"/images/bracelets/manchette4(04).jpeg",
+						"/images/bracelets/manchette4(05).jpeg"
 					}
 				},
 				new Product
@@ -1227,11 +1227,11 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="manchette_05" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette5.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette5(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette5(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette5(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette5(04).jpeg"
+						"/images/bracelets/manchette5.jpeg",
+						"/images/bracelets/manchette5(01).jpeg",
+						"/images/bracelets/manchette5(02).jpeg",
+						"/images/bracelets/manchette5(03).jpeg",
+						"/images/bracelets/manchette5(04).jpeg"
 					}
 				},
 				new Product
@@ -1244,13 +1244,13 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="manchette_06" ,
 					Images=new String[]{
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6.jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(01).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(02).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(03).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(04).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(05).jpeg",
-						"https://milhiecreation.milhie.fr/images/bracelets/manchette6(06).jpeg"
+						"/images/bracelets/manchette6.jpeg",
+						"/images/bracelets/manchette6(01).jpeg",
+						"/images/bracelets/manchette6(02).jpeg",
+						"/images/bracelets/manchette6(03).jpeg",
+						"/images/bracelets/manchette6(04).jpeg",
+						"/images/bracelets/manchette6(05).jpeg",
+						"/images/bracelets/manchette6(06).jpeg"
 					}
 				},
 			};
@@ -1266,11 +1266,11 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="lyto_01" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/lyto1.jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto1(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto1(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto1(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto1(04).jpeg"
+						"/images/bracelets/lyto1.jpeg",
+						"/images/bracelets/lyto1(01).jpeg",
+						"/images/bracelets/lyto1(02).jpeg",
+						"/images/bracelets/lyto1(03).jpeg",
+						"/images/bracelets/lyto1(04).jpeg"
 					}
 				},
 				new Product
@@ -1283,12 +1283,12 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="lyto_02" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/lyto2.jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto2(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto2(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto2(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto2(04).jpeg",
-						"https://php.milhie.fr/images/bracelets/lyto2(05).jpeg"
+						"/images/bracelets/lyto2.jpeg",
+						"/images/bracelets/lyto2(01).jpeg",
+						"/images/bracelets/lyto2(02).jpeg",
+						"/images/bracelets/lyto2(03).jpeg",
+						"/images/bracelets/lyto2(04).jpeg",
+						"/images/bracelets/lyto2(05).jpeg"
 					}
 				},
 			};
@@ -1304,9 +1304,9 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_01" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet1.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet1(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet1(02).jpeg"
+						"/images/bracelets/bracelet1.jpeg",
+						"/images/bracelets/bracelet1(01).jpeg",
+						"/images/bracelets/bracelet1(02).jpeg"
 					}
 				},
 				new Product
@@ -1319,9 +1319,9 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_02" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet2.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet2(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet2(02).jpeg"
+						"/images/bracelets/bracelet2.jpeg",
+						"/images/bracelets/bracelet2(01).jpeg",
+						"/images/bracelets/bracelet2(02).jpeg"
 					}
 				},
 				new Product
@@ -1334,9 +1334,9 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_03" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet3.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet3(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet3(02).jpeg"
+						"/images/bracelets/bracelet3.jpeg",
+						"/images/bracelets/bracelet3(01).jpeg",
+						"/images/bracelets/bracelet3(02).jpeg"
 					}
 				},
 				new Product
@@ -1349,14 +1349,14 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_04" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet4.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(04).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(05).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(06).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet4(07).jpeg"
+						"/images/bracelets/bracelet4.jpeg",
+						"/images/bracelets/bracelet4(01).jpeg",
+						"/images/bracelets/bracelet4(02).jpeg",
+						"/images/bracelets/bracelet4(03).jpeg",
+						"/images/bracelets/bracelet4(04).jpeg",
+						"/images/bracelets/bracelet4(05).jpeg",
+						"/images/bracelets/bracelet4(06).jpeg",
+						"/images/bracelets/bracelet4(07).jpeg"
 					}
 				},
 				new Product
@@ -1369,8 +1369,8 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_05" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet5.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet5(01).jpeg"
+						"/images/bracelets/bracelet5.jpeg",
+						"/images/bracelets/bracelet5(01).jpeg"
 					}
 				},
 				new Product
@@ -1383,7 +1383,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_06" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet6.jpeg"
+						"/images/bracelets/bracelet6.jpeg"
 					}
 				},
 				new Product
@@ -1396,9 +1396,9 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_07" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet7.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet7(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet7(02).jpeg"
+						"/images/bracelets/bracelet7.jpeg",
+						"/images/bracelets/bracelet7(01).jpeg",
+						"/images/bracelets/bracelet7(02).jpeg"
 					}
 				},
 				new Product
@@ -1411,9 +1411,9 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_08" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet8.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet8(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet8(02).jpeg"
+						"/images/bracelets/bracelet8.jpeg",
+						"/images/bracelets/bracelet8(01).jpeg",
+						"/images/bracelets/bracelet8(02).jpeg"
 					}
 				},
 				new Product
@@ -1426,14 +1426,14 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_09" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet9.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(04).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(05).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(06).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet9(07).jpeg"
+						"/images/bracelets/bracelet9.jpeg",
+						"/images/bracelets/bracelet9(01).jpeg",
+						"/images/bracelets/bracelet9(02).jpeg",
+						"/images/bracelets/bracelet9(03).jpeg",
+						"/images/bracelets/bracelet9(04).jpeg",
+						"/images/bracelets/bracelet9(05).jpeg",
+						"/images/bracelets/bracelet9(06).jpeg",
+						"/images/bracelets/bracelet9(07).jpeg"
 					}
 				},
 				new Product
@@ -1446,12 +1446,12 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="bracelet_10" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet10.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet10(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet10(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet10(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet10(04).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet10(05).jpeg"
+						"/images/bracelets/bracelet10.jpeg",
+						"/images/bracelets/bracelet10(01).jpeg",
+						"/images/bracelets/bracelet10(02).jpeg",
+						"/images/bracelets/bracelet10(03).jpeg",
+						"/images/bracelets/bracelet10(04).jpeg",
+						"/images/bracelets/bracelet10(05).jpeg"
 					}
 				},
 				new Product
@@ -1464,12 +1464,12 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_11" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet11.jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet11(01).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet11(02).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet11(03).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet11(04).jpeg",
-						"https://php.milhie.fr/images/bracelets/bracelet11(05).jpeg"
+						"/images/bracelets/bracelet11.jpeg",
+						"/images/bracelets/bracelet11(01).jpeg",
+						"/images/bracelets/bracelet11(02).jpeg",
+						"/images/bracelets/bracelet11(03).jpeg",
+						"/images/bracelets/bracelet11(04).jpeg",
+						"/images/bracelets/bracelet11(05).jpeg"
 					}
 				},
 				new Product
@@ -1482,7 +1482,7 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="bracelet_12" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/bracelets/bracelet12.jpeg"
+						"/images/bracelets/bracelet12.jpeg"
 					}
 				},
 			};
@@ -1499,8 +1499,8 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="necklace_01" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/colliers/collier2_259.jpeg",
-						"https://php.milhie.fr/images/colliers/collier2(1)_259.jpeg"
+						"/images/colliers/collier2_259.jpeg",
+						"/images/colliers/collier2(1)_259.jpeg"
 					}
 				},
 				new Product
@@ -1513,10 +1513,10 @@ namespace APIMilhieCreation
 					Disponibility =false,
 					Reference="necklace_02" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/colliers/collier1_259.jpeg",
-						"https://php.milhie.fr/images/colliers/collier1(2)_259.jpeg",
-						"https://php.milhie.fr/images/colliers/collier1(3)_259.jpeg",
-						"https://php.milhie.fr/images/colliers/collier1(4)_259.jpeg"
+						"/images/colliers/collier1_259.jpeg",
+						"/images/colliers/collier1(2)_259.jpeg",
+						"/images/colliers/collier1(3)_259.jpeg",
+						"/images/colliers/collier1(4)_259.jpeg"
 					}
 				},
 			};
@@ -1533,11 +1533,11 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_chakras_01" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/pendentif3.jpeg",
-						"https://php.milhie.fr/images/pendentifs/pendentif3(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/pendentif3(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/pendentif3(03).jpeg",
-						"https://php.milhie.fr/images/pendentifs/pendentif3(04).jpeg"
+						"/images/pendentifs/pendentif3.jpeg",
+						"/images/pendentifs/pendentif3(01).jpeg",
+						"/images/pendentifs/pendentif3(02).jpeg",
+						"/images/pendentifs/pendentif3(03).jpeg",
+						"/images/pendentifs/pendentif3(04).jpeg"
 					}
 				},
 				new Product
@@ -1550,8 +1550,8 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_chakras_02" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/pendentif4.jpeg",
-						"https://php.milhie.fr/images/pendentifs/pendentif4(01).jpeg"
+						"/images/pendentifs/pendentif4.jpeg",
+						"/images/pendentifs/pendentif4(01).jpeg"
 					}
 				},
 				new Product
@@ -1564,7 +1564,7 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_chakras_03" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/pendentif5_259.jpeg"
+						"/images/pendentifs/pendentif5_259.jpeg"
 					}
 				},
 			};
@@ -1580,12 +1580,12 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_01" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/lab1.jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab1(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab1(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab1(03).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab1(04).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab1(05).jpeg"
+						"/images/pendentifs/lab1.jpeg",
+						"/images/pendentifs/lab1(01).jpeg",
+						"/images/pendentifs/lab1(02).jpeg",
+						"/images/pendentifs/lab1(03).jpeg",
+						"/images/pendentifs/lab1(04).jpeg",
+						"/images/pendentifs/lab1(05).jpeg"
 					}
 				},
 				new Product
@@ -1598,11 +1598,11 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_02" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/lab2.jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab2(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab2(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab2(03).jpeg",
-						"https://php.milhie.fr/images/pendentifs/lab2(04).jpeg"
+						"/images/pendentifs/lab2.jpeg",
+						"/images/pendentifs/lab2(01).jpeg",
+						"/images/pendentifs/lab2(02).jpeg",
+						"/images/pendentifs/lab2(03).jpeg",
+						"/images/pendentifs/lab2(04).jpeg"
 					}
 				},
 				new Product
@@ -1615,9 +1615,9 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_03" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/amethyst01.jpeg",
-						"https://php.milhie.fr/images/pendentifs/amethyst01(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/amethyst01(02).jpeg"
+						"/images/pendentifs/amethyst01.jpeg",
+						"/images/pendentifs/amethyst01(01).jpeg",
+						"/images/pendentifs/amethyst01(02).jpeg"
 					}
 				},
 				new Product
@@ -1630,11 +1630,11 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_04" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/obs01.jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs01(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs01(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs01(03).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs01(04).jpeg"
+						"/images/pendentifs/obs01.jpeg",
+						"/images/pendentifs/obs01(01).jpeg",
+						"/images/pendentifs/obs01(02).jpeg",
+						"/images/pendentifs/obs01(03).jpeg",
+						"/images/pendentifs/obs01(04).jpeg"
 					}
 				},
 				new Product
@@ -1647,10 +1647,10 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_05" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/obs02.jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs02(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs02(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs02(03).jpeg"
+						"/images/pendentifs/obs02.jpeg",
+						"/images/pendentifs/obs02(01).jpeg",
+						"/images/pendentifs/obs02(02).jpeg",
+						"/images/pendentifs/obs02(03).jpeg"
 					}
 				},
 				new Product
@@ -1663,10 +1663,10 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_06" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/obs03.jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs03(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs03(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs03(03).jpeg"
+						"/images/pendentifs/obs03.jpeg",
+						"/images/pendentifs/obs03(01).jpeg",
+						"/images/pendentifs/obs03(02).jpeg",
+						"/images/pendentifs/obs03(03).jpeg"
 					}
 				},
 				new Product
@@ -1679,10 +1679,10 @@ namespace APIMilhieCreation
 					Disponibility =true,
 					Reference="pendant_lyto_07" ,
 					Images=new String[]{
-						"https://php.milhie.fr/images/pendentifs/obs04.jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs04(01).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs04(02).jpeg",
-						"https://php.milhie.fr/images/pendentifs/obs04(03).jpeg"
+						"/images/pendentifs/obs04.jpeg",
+						"/images/pendentifs/obs04(01).jpeg",
+						"/images/pendentifs/obs04(02).jpeg",
+						"/images/pendentifs/obs04(03).jpeg"
 					}
 				},
 			};
